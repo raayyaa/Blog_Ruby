@@ -5,6 +5,17 @@ Blog CRUD realisé avec ruby on rails et une base de données PostgreSQL.
  ![image](https://user-images.githubusercontent.com/38456239/179611998-93589e86-8c8a-476a-9083-87797308a3a6.png) ![image](https://user-images.githubusercontent.com/38456239/179612052-94f4627f-959a-4017-9b80-65ab584e7e37.png)
 
 
+Installation de l'application:
+
+- Telecharger le code 
+- Installer Postresql
+- Bundle install
+- Rake db:create
+- Rake db:migrate
+
+
+
+
 Page d'acceuil du blog, affichant tous les articles
 
  ![image](https://user-images.githubusercontent.com/38456239/179611917-af0e1f52-d475-4664-8c2f-e49d570d0cc7.png)
