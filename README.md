@@ -16,7 +16,7 @@ Installation de l'application:
 
 
 
-Page d'acceuil du blog, affichant tous les articles
+Page d'accueil du blog, affichant tous les articles
 
  ![image](https://user-images.githubusercontent.com/38456239/179611917-af0e1f52-d475-4664-8c2f-e49d570d0cc7.png)
 
