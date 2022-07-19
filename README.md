@@ -41,5 +41,9 @@ Suppression d'un article avec un alert pour confirmer la suppression
 ![image](https://user-images.githubusercontent.com/38456239/179613109-3e358aac-e05c-4638-92eb-f186569ae8b6.png)
 ![image](https://user-images.githubusercontent.com/38456239/179613153-afe386eb-525b-4b90-bcb3-5ad9c4faac9d.png)
 
+Gestion de la base donnée avec pgAdmin
+
+![image](https://user-images.githubusercontent.com/38456239/179855569-e0c85e7a-33fa-4251-8060-a5f8308fcc71.png)
+
 
 
